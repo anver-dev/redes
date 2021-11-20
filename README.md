@@ -15,6 +15,5 @@ Internet nos brinda multiples servicios; es un lugar en el cual podemos acceder 
 
 <a name="protocolos"></a>
 ## Protocolos
----
 
 Un protocolo es el que se encarga de definir el formato y el orden de los mensajes enviados entre dos entidades de red y las acciones tomadas en la transmición y recepcion.
