@@ -1,6 +1,6 @@
-<style>body {text-align: justify}</style>
 # Internet 
 
+<style>body {text-align: justify}</style>
 ## ¿Qué es el internet? 
 ---
 Podemos describir el internet de la siguientes maneras: 
